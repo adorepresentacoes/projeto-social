@@ -1,18 +1,21 @@
 @charset "UTF-8";
 
-    *{
+* {
     margin: 0px;
     padding: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-::-webkit-scrollbar{
+
+::-webkit-scrollbar {
     width: 0px;
     height: 0px;
 }
-img{
-width: 100vw;
+
+img {
+    width: 100vw;
 }
-a{
+
+a {
     display: block;
     background-color: darkred;
     padding: 20px;
@@ -21,6 +24,7 @@ a{
     color: white;
     font-weight: bolder;
 }
-a:hover{
+
+a:hover {
     background-color: red;
 }
